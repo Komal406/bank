@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <team Name="Red">
+      <info >      
+        <name>om</name>  
+        <exprience>4 years</exprience>
+         <emobno>1234345434</emobno>
+         <eadd>shriramput</eadd> 
+      </info>
+      <info >      
+        <name>sai</name>  
+        <exprience>3 years</exprience>
+         <emobno>1234345434</emobno>
+         <eadd>shrirdi</eadd> 
+      </info>
+      <info >      
+        <name>ram</name>  
+        <exprience>5 years</exprience>
+         <emobno>12927345434</emobno>
+         <eadd>matapur</eadd> 
+      </info>
+   </team>
